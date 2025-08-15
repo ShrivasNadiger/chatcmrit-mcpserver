@@ -1,0 +1,48 @@
+{
+  "overview": "Established in 2000, the CMR Institute of Technology imparts quality, pragmatic education in engineering and management to help students hone their analytical abilities and develop their creative thinking skills. CMRIT meets the rapidly growing need for technology professionals by nurturing young minds in an innovative and progressive learning environment. Situated in the very heart of South India’s IT corridor, the CMRIT campus in Whitefield, Bangalore is centrally located, well connected and easily accessible.\n\nAt CMRIT, we are dedicated to holding aloft the flame of Sri Chikka Muniyappa Reddy’s dreams. Towards this end, we are committed to promoting technical education as a catalyst to the growth and development of the country and society at large. With world-class infrastructure and experienced faculty, CMR Institute of Technology is the preferred destination for technocrats and managers who wish to shape the future.\nVision\nTo be a nationally acclaimed and globally recognised institute of engineering, technology and management, producing competent professionals with appropriate attributes to serve the cause of the nation and of society at large.\nMission\nCMRIT seeks to realise its Vision with a Mission to:\nCreate the necessary infrastructure appropriate to the needs of the programmes and activities of the institution.\nAttract and retain well-qualified faculty and supporting staff.\nCreate and facilitate an ambience for interdisciplinary engagement, leading to a healthy competition among students and staff, in pursuit of excellence through lifelong learning.\nDevelop and operate mutually-beneficial programmes, partnering with industries, institutes and individuals of national and international repute.\nCreate mechanisms to understand societal needs and provide solutions for the betterment of society.",
+
+  "LeaderShip": [
+    {
+      "name": "Shrivas Nadiger",
+      "Position": "Principal",
+      "about": "bla blaa blaaaa"
+    },
+    {
+      "name": "Somu N C",
+      "Position": "Vice Principal",
+      "about": "flaa flaa flaaaa"
+    }
+  ],
+
+  "address": "marathahalli,Kundalahalli,AECS Layout,Brookfield mall,Bengaluru-560037",
+
+  "important_geolocations": [
+    { "location_name": "Marathahalli", "Distance": 3.5 },
+    { "location_name": "Kundalahalli Metero Station", "Distance": 2.3 },
+    { "location_name": "SeetharamaPalya Metro Station", "Distance": 1.6 },
+    { "location_name": "Kundalahalli Gate", "Distance": 2.6 },
+    { "location_name": "Brookfield Hospital", "Distance": "0.9" },
+    { "location_name": "Sansar Center Market", "Distance": 0.15 },
+    { "location_name": "Banglore-one AECS Layout", "Distance": 0.35 },
+    { "location_name": "Kundalahalli Colony", "Distance": 0.2 }
+  ],
+
+  "how_to_reach": " 📍 CMR Institute of Technology (CMRIT)ITPL Main Road, AECS Layout, Kundalahalli Bengaluru  560037, Karnataka India By Bus: BMTC buses from Majestic, KR Puram, Marathahalli stop at AECS Layout or Kundalahalli Gate. By Train: Nearest railway station is KR Puram (~8 km), then take a bus or cab. By Air: From Kempegowda International Airport, take the Vayu Vajra bus to Marathahalli and then a local bus or cab. By Car/Cab: Use NH44/NH75 towards Marathahalli → ITPL Main Rd → AECS Layout.",
+
+  "places_to_visit_near": [
+    "Polar Bear",
+    "Manjunatha Tiffins",
+    "Bahhuka",
+    "Govinda Tea Stall",
+    "Ganesh temple",
+    "Ayyappa Swami Temple",
+    "Asha Tiffins",
+    "Cafe siri"
+  ],
+
+  "near_by_pg": [
+    { "name": "Amaravathi PG", "gender": "boys", "ratings": 9 },
+    { "name": "Rishi PG", "gender": "girls", "ratings": 7 },
+    { "name": "venkateshwara PG", "gender": "boys", "ratings": 5 }
+  ]
+}

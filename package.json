@@ -1,0 +1,33 @@
+{
+  "name": "chatcmrit-mcpserver",
+  "version": "1.0.0",
+  "description": "MCP - Server for Providing Context about CMRIT College Info",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "ts-node src/index.ts",
+    "build": "rimraf dist && tsc -p tsconfig.json",
+    "start": "node dist/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShrivasNadiger/chatcmrit-mcpserver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShrivasNadiger/chatcmrit-mcpserver/issues"
+  },
+  "homepage": "https://github.com/ShrivasNadiger/chatcmrit-mcpserver#readme",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.17.3",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.3",
+    "@types/node": "^24.3.0",
+    "rimraf": "^6.0.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}
